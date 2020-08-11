@@ -1,5 +1,5 @@
 ### Hola!, I am Juwon 👋
-![Banner that says, Olajuwon, Software developer](/assets/gitprofile.png)
+<img src="https://raw.githubusercontent.com/Holajuwon/Holajuwon/master/assets/gitprofile.png" alt="banner that says Olajuwon - software developer and content creator">
 <!--
 **Holajuwon/Holajuwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
